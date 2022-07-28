@@ -20,6 +20,8 @@ personalMobieDB.movies[a] = b;
 personalMobieDB.movies[c] = d;
 
 console.log(personalMobieDB);
+console.log(personalMobieDB);
+
 
 
 
