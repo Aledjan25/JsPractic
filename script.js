@@ -22,6 +22,7 @@ personalMobieDB.movies[c] = d;
 console.log(personalMobieDB);
 console.log(personalMobieDB);
 console.log(personalMobieDB);
+console.log(personalMobieDB);
 
 
 
